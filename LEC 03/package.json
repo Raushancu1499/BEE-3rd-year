@@ -1,0 +1,15 @@
+{
+  "name": "lec-03",
+  "version": "1.0.1",
+  "description": "\"this package does nothing \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raushan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "keywords": []
+}
