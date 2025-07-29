@@ -1,0 +1,8 @@
+DOM = DOCUMENT OBJECT MODEL 
+[1] DOCUMENT API = WINDOW OBJECT ---- HTML/XML --- DOM TREE --
+
+
+  DOM TREE -- DOCUMENT--HTML --[1]HEAD    [2]BODY 
+
+                                   |         |
+                                    
