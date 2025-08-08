@@ -14,7 +14,7 @@
 // let el3=document.getElementsByTagName("p");   // returns collection
 // console.log(el3);     // indexing can be used
 
-let el4=document.querySelector("p");    // using tagname
+let el4= document.querySelector("p");    // using tagname
 console.log(el4);
 
 // let el5=document.querySelector(".item");    // using classname use . // return first match of the class > can be accessed using index or can be looped over

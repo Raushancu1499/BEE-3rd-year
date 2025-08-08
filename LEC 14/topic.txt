@@ -1,0 +1,8 @@
+// fetch and axious === to  send http request ;
+
+
+fetch is promise based 
+mean it return promise so we can implement .then and .catch 
+fetch("url inside ")
+
+response is not json so convert it in json by using res.json 
